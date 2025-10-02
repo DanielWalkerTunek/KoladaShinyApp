@@ -1,0 +1,15 @@
+Package: KoladaShinyApp
+Type: Shiny
+Title: Shiny app for exploring Kolada data
+Version: 0.1.0
+Authors@R: person("Daniel Walker Tunek", role = c("aut", "cre"), email = "danieltunekwalker@email.com")
+Description: A Shiny app that uses the Lab5 package to query Kolada data.
+License: MIT
+Encoding: UTF-8
+LazyData: true
+Imports:
+    shiny,
+    Lab5
+Remotes:
+    sjofrem/Lab5
+
