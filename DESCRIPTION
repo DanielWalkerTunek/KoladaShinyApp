@@ -1,5 +1,4 @@
 Package: KoladaShinyApp
-Type: Shiny
 Title: Shiny app for exploring Kolada data
 Version: 0.1.0
 Authors@R: person("Daniel Walker Tunek", role = c("aut", "cre"), email = "danieltunekwalker@email.com")
